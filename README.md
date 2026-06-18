@@ -1,29 +1,46 @@
+<h1 align="center">✨ Barbara Mecaj | Full-Stack Engineer ✨</h1>
 
-<h1 align="center"><bold>A talented female developer from Albania! </bold></h1>
+<p align="center">
+Building scalable platforms, modern architectures, and reliable software solutions.
+</p>
 
-I am a Software Engineer . I love Programming, reading, writing and speaking.
+I am a Full-Stack Engineer from Albania with experience designing, developing, and modernizing enterprise applications across fintech, healthcare, and cloud-native environments.
 
-I lead the charge in crafting amazing user experiences from the ground up.
+I enjoy solving complex engineering challenges, improving system reliability, and transforming business requirements into scalable digital products that create measurable value.
 
-Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both Frontend Development. 
+Give me a challenging problem, and I'll combine modern frontend technologies, backend engineering, cloud infrastructure, and software architecture principles to build efficient and maintainable solutions.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="340" height="260" />
-<!--  <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/7ef7c9a3-a2b7-4d67-872f-4a79be718e7f" width="340" height="256" /> -->
 
-New challenges keep me energized, and I'm always ready to tackle them.
+I am passionate about continuous learning, clean architecture, platform modernization, and delivering high-quality software that balances performance, scalability, and maintainability.
 
+### 🚀 About Me
 
-### Talking about Personal Stuff:
-
-- 👨‍🎓 I'm a **Software Engineering **
-- 🔭 I’m currently working on Fullstack  platform
-- 👨‍🏫 I'm the **Community Leader** at Ghost Coder
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning: DSA and Backend
-- 💪 This is where I write, code and solve problems:
+- 💻 Full-Stack Engineer with 8+ years of experience building enterprise applications
+- 🏗️ Passionate about scalable systems, platform modernization, and software architecture
+- ☁️ Experienced with cloud-native solutions on AWS and GCP
+- 🔄 Strong background in CI/CD, microservices, and modern engineering practices
+- 🤝 Enjoy collaborating with cross-functional teams to deliver impactful products
+- 🤖 Interested in intelligent automation and AI-assisted capabilities within modern applications
+- 📚 Constantly learning, improving, and exploring new technologies
 
 ---
-</hr>
+
+### 💡 What I Enjoy
+
+- Building scalable and maintainable software
+- Solving complex technical challenges
+- Learning modern technologies and best practices
+- Contributing to innovative digital products
+- Sharing knowledge and collaborating with engineering teams
+
+---
+
+### 🌟 Philosophy
+
+> Great software is not only about writing code — it's about building reliable systems, creating value for users, and continuously improving through learning and innovation.
+
+---
 
 <h1 align="center">💫 My BEST SKILLS 🛠️</h1>
 
