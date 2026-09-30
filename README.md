@@ -1,52 +1,45 @@
-<h1 align="center">✨ Barbara Mecaj | Full-Stack Engineer ✨</h1>
+<h1 align="center">Barbara Mecaj | Senior Full-Stack Engineer</h1>
 
 <p align="center">
-Building scalable platforms, modern architectures, and reliable software solutions.
+  <strong>Software Architecture • AI & Intelligent Automation • Distributed Systems • Domain-Driven Design</strong>
 </p>
 
-I am a Full-Stack Engineer from Albania with experience designing, developing, and modernizing enterprise applications across fintech, healthcare, and cloud-native environments.
-
-I enjoy solving complex engineering challenges, improving system reliability, and transforming business requirements into scalable digital products that create measurable value.
-
-Give me a challenging problem, and I'll combine modern frontend technologies, backend engineering, cloud infrastructure, and software architecture principles to build efficient and maintainable solutions.
-
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="340" height="260" />
-
-I am passionate about continuous learning, clean architecture, platform modernization, and delivering high-quality software that balances performance, scalability, and maintainability.
-
-### 🚀 About Me
-
-- 💻 Full-Stack Engineer with 8+ years of experience building enterprise applications
-- 🏗️ Passionate about scalable systems, platform modernization, and software architecture
-- ☁️ Experienced with cloud-native solutions on AWS and GCP
-- 🔄 Strong background in CI/CD, microservices, and modern engineering practices
-- 🤝 Enjoy collaborating with cross-functional teams to deliver impactful products
-- 🤖 Interested in intelligent automation and AI-assisted capabilities within modern applications
-- 📚 Constantly learning, improving, and exploring new technologies
-
----
-
-### 💡 What I Enjoy
-
-- Building scalable and maintainable software
-- Solving complex technical challenges
-- Learning modern technologies and best practices
-- Contributing to innovative digital products
-- Sharing knowledge and collaborating with engineering teams
-
----
-
-### 🌟 Philosophy
-
-> Great software is not only about writing code - it's about building reliable systems, creating value for users, and continuously improving through learning and innovation.
-
----
-
-<h1 align="center">💫 Core Technologies & Expertise 🛠️</h1>
-
-### 🚀 Engineering, Cloud & Modern Web Development
-
 <p align="center">
+  Engineering and modernizing business-critical platforms across fintech, healthcare, and e-commerce.
+</p>
+
+👩‍💻 Engineering Profile
+
+Senior Full-Stack Engineer with 9+ years of experience designing, modernizing, and scaling enterprise software systems.
+
+My work spans Domain-Driven Design (DDD), distributed and event-driven architectures, microservices, cloud-native systems, platform modernization, and system integration, with recent experience extending into AI-enabled capabilities and intelligent automation.
+
+I work across the full engineering lifecycle — from architecture and technical design to implementation, testing, deployment, observability, and production evolution.
+
+<img align="right" alt="Software Engineering" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="340" height="260" />
+
+🏗️ Core Expertise
+
+Software Architecture — DDD, modular design, microservices & distributed systems
+
+Event-Driven Systems — asynchronous workflows, messaging & service integration
+
+Platform Modernization — evolving legacy applications into maintainable architectures
+
+AI & Intelligent Automation — integrating AI-assisted capabilities into business workflows
+
+Cloud-Native Engineering — containerized workloads, CI/CD & production infrastructure
+
+Performance & Reliability — caching, database optimization, observability & resilient systems
+
+Full-Stack Engineering — end-to-end delivery across frontend, backend & platform layers
+
+🏢 Domain Experience
+
+Fintech & Digital Banking • Healthcare • E-Commerce • Enterprise Platforms
+
+<h2 align="center">🛠️ Technologies & Engineering Stack</h2>
+
 <table align="center">
 
 <tr>
@@ -89,11 +82,9 @@ I am passionate about continuous learning, clean architecture, platform moderniz
 <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" />
 <br>MUI
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
 <br>Node.js
@@ -133,11 +124,9 @@ I am passionate about continuous learning, clean architecture, platform moderniz
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
 <br>REST API
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
 <br>PostgreSQL
@@ -177,11 +166,9 @@ I am passionate about continuous learning, clean architecture, platform moderniz
 <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" />
 <br>GCP
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" />
 <br>Kafka
@@ -221,10 +208,10 @@ I am passionate about continuous learning, clean architecture, platform moderniz
 <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
 <br>VS Code
 </td>
-
 </tr>
 
 </table>
-</p>
 
-<hr>
+<p align="center">
+  <strong>Senior Full-Stack Engineering • Software Architecture • Distributed Systems • AI-Enabled Applications</strong>
+</p>
