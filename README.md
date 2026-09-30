@@ -1,45 +1,46 @@
-<h1 align="center">Barbara Mecaj | Senior Full-Stack Engineer</h1>
+<h1 align="center">✨ Barbara Mecaj | Senior Full-Stack Engineer ✨</h1>
 
 <p align="center">
-  <strong>Software Architecture • AI & Intelligent Automation • Distributed Systems • Domain-Driven Design</strong>
+<strong>Software Architecture | AI & Intelligent Automation | Distributed Systems | Domain-Driven Design</strong>
 </p>
 
 <p align="center">
-  Engineering and modernizing business-critical platforms across fintech, healthcare, and e-commerce.
+Designing, modernizing, and scaling business-critical platforms across fintech, healthcare, and e-commerce.
 </p>
 
-👩‍💻 Engineering Profile
+---
 
-Senior Full-Stack Engineer with 9+ years of experience designing, modernizing, and scaling enterprise software systems.
+### 👩‍💻 Engineering Profile
 
-My work spans Domain-Driven Design (DDD), distributed and event-driven architectures, microservices, cloud-native systems, platform modernization, and system integration, with recent experience extending into AI-enabled capabilities and intelligent automation.
+Senior Full-Stack Engineer with **9+ years of experience** designing, modernizing, and scaling enterprise software systems.
 
-I work across the full engineering lifecycle — from architecture and technical design to implementation, testing, deployment, observability, and production evolution.
+My experience spans **Domain-Driven Design (DDD), distributed and event-driven architectures, microservices, cloud-native systems, platform modernization, and system integration**, with recent work focused on **AI-enabled capabilities and intelligent automation**.
+
+Experienced across the complete engineering lifecycle, including architecture, technical design, implementation, testing, deployment, observability, and production evolution.
 
 <img align="right" alt="Software Engineering" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="340" height="260" />
 
-🏗️ Core Expertise
+### 🏗️ Core Expertise
 
-Software Architecture — DDD, modular design, microservices & distributed systems
+- 🏛️ **Software Architecture:** DDD, modular architecture, microservices, and distributed systems
+- ⚡ **Event-Driven Systems:** asynchronous workflows, messaging, and service integration
+- 🔄 **Platform Modernization:** evolving legacy applications into scalable and maintainable architectures
+- 🤖 **AI & Intelligent Automation:** integrating AI-assisted capabilities into business workflows
+- ☁️ **Cloud-Native Engineering:** containerized workloads, CI/CD, and production infrastructure
+- 📊 **Performance & Reliability:** caching, database optimization, observability, and resilient systems
+- 💻 **Full-Stack Engineering:** end-to-end delivery across frontend, backend, and platform layers
 
-Event-Driven Systems — asynchronous workflows, messaging & service integration
+### 🏢 Domain Experience
 
-Platform Modernization — evolving legacy applications into maintainable architectures
+`Fintech & Digital Banking` | `Healthcare` | `E-Commerce` | `Enterprise Platforms`
 
-AI & Intelligent Automation — integrating AI-assisted capabilities into business workflows
+---
 
-Cloud-Native Engineering — containerized workloads, CI/CD & production infrastructure
+<h1 align="center">💫 Technologies & Engineering Stack 🛠️</h1>
 
-Performance & Reliability — caching, database optimization, observability & resilient systems
+### 🚀 Frontend, Backend, Cloud & Infrastructure
 
-Full-Stack Engineering — end-to-end delivery across frontend, backend & platform layers
-
-🏢 Domain Experience
-
-Fintech & Digital Banking • Healthcare • E-Commerce • Enterprise Platforms
-
-<h2 align="center">🛠️ Technologies & Engineering Stack</h2>
-
+<p align="center">
 <table align="center">
 
 <tr>
@@ -211,7 +212,10 @@ Fintech & Digital Banking • Healthcare • E-Commerce • Enterprise Platforms
 </tr>
 
 </table>
+</p>
+
+---
 
 <p align="center">
-  <strong>Senior Full-Stack Engineering • Software Architecture • Distributed Systems • AI-Enabled Applications</strong>
+<strong>Senior Full-Stack Engineering | Software Architecture | Distributed Systems | AI-Enabled Applications</strong>
 </p>
